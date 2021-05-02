@@ -9,3 +9,4 @@ export class AppComponent {
   title = 'Tour of Heroes';
   public div: boolean = true;
 }
+<app-header></app-header>
