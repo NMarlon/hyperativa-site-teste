@@ -1,6 +1,7 @@
 {
   "name": "hyperativa",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,7 +11,7 @@
     "e2e": "ng e2e"
   },
   "private": true,
-  "dependencies": {
+  "dependencies": {   
     "@angular/animations": "~11.2.12",
     "@angular/common": "~11.2.12",
     "@angular/compiler": "~11.2.12",
@@ -20,10 +21,10 @@
     "@angular/platform-browser-dynamic": "~11.2.12",
     "@angular/router": "~11.2.12",
     "rxjs": "~6.6.0",
-    "tslib": "^2.0.0",
+    "tslib": "^2.0.0",    
     "zone.js": "~0.11.3"
   },
-  "devDependencies": {
+  "devDependencies": {      
     "@angular-devkit/build-angular": "~0.1102.11",
     "@angular/cli": "~11.2.11",
     "@angular/compiler-cli": "~11.2.12",
@@ -41,5 +42,6 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~4.1.5"
-  }
+  },
+
 }
